@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 
 ___ 
 
-<br/>
-<br/>
-<br/>
+
+
 
 ### 📧**Hyejun's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjlee9725@gmail.com)](mailto:hjlee9725@gmail.com)
 : hjlee9725@gmail.com
