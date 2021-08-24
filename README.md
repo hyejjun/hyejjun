@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 개인적으로 진행한 (팀)프로젝트 + 공부한 내용이 올라갑니다. 
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
