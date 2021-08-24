@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 이혜준 (HYE JUN LEE)
-## _Frontend Developer_
+## _Frontend_
 
 
 ##### 개인적으로 진행한 (팀)프로젝트 + 공부한 내용이 올라갑니다.
