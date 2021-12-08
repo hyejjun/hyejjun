@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## _Frontend_ , _Backend_ ,  _Block Chain_
+<br>
 
 # 이혜준 (HYE JUN LEE)
-## _Frontend_ , _Backend_ ,  _Block Chain_
+## 📞  010-8909-4952 </br>
+
+
  
 <br>
 
