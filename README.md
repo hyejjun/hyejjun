@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 이혜준 (HYE JUN LEE)
-## _Frontend_ , _Backend_ ,  _Block Chain_   Developer
+## _Frontend_ , _Backend_ ,  _Block Chain_
  
 <br>
 
