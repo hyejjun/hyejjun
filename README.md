@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 -->
 
 # 이혜준 (HYE JUN LEE)
-## _Frontend_
+## _Frontend_ , _Backend_ ,  _Block Chain_   Developer
+ 
+<br>
 
+## 포트폴리오 사이트 <br>
+
+https://hyejjun.github.io/MyPortfolio/
+
+
+
+##
+
+<br>
 
 ##### 개인적으로 진행한 (팀)프로젝트 + 공부한 내용이 올라갑니다.
 
