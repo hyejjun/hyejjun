@@ -21,21 +21,6 @@ Here are some ideas to get you started:
 <!-- ## 📞  010-8909-4952 </br> -->
 
 
- 
-<br>
-
-## 포트폴리오 사이트 <br>
-
-https://hyejjun.github.io/MyPortfolio/
-
-
-
-##
-
-<br>
-
-##### 개인적으로 진행한 (팀)프로젝트 + 공부한 내용이 올라갑니다.
-
 <br/>
 
 ## ⛏ Tech Stack
