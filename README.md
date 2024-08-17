@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## _Frontend_ , _Backend_ ,  _Block Chain_
+## _Frontend_ , _Backend_ 
 <br>
 
 # 이혜준 (HYE JUN LEE)
