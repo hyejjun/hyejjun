@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Tokenphage](https://api.tokenphage.com/badge/hyejjun?theme=grass-claude)](https://github.com/TOKENPHAGE)
+
 <!--
 **hyejjun/hyejjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
